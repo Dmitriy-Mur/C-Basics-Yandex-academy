@@ -1,1 +1,1 @@
-# C-Basics-Yandex-academy
+# Cpp-Basics-Yandex-academy
